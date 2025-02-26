@@ -1,5 +1,8 @@
 # Lat_DataAnalisis_Python
 
+## Analisis Data
+berada pada file sample.ipynb
+
 ## Install Streamlit
 ```sh
 pip install streamlit
