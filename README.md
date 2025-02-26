@@ -1,10 +1,16 @@
 # Lat_DataAnalisis_Python
 
 ## Install Streamlit
-'pip install streamlit'
+```sh
+pip install streamlit
+```
 
-## Aktifkan venv
-'source venv/bin/activate'
+## Aktifkan Virtual Environment (venv)
+```sh
+source venv/bin/activate
+```
 
-## Run Streamlit
-'streamlit run dashboard.py'
+## Jalankan Streamlit
+```sh
+streamlit run dashboard.py
+```
