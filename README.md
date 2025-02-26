@@ -1,19 +1,25 @@
-# Lat_DataAnalisis_Python
+# 📊 Analisis Data dengan Python
 
-## Analisis Data
-berada pada file sample.ipynb
+Analisis data dilakukan menggunakan **Jupyter Notebook**.  
+**📂 File:** `sample.ipynb`
 
-## Install Streamlit
+## ⚙️ Instalasi Streamlit  
+Pastikan **Streamlit** sudah terinstal sebelum menjalankan dashboard:  
 ```sh
 pip install streamlit
 ```
 
-## Aktifkan Virtual Environment (venv)
-```sh
-source venv/bin/activate
-```
+## 🖥️ Mengaktifkan Virtual Environment (venv)  
+Sebelum menjalankan aplikasi, aktifkan **virtual environment**  
 
-## Jalankan Streamlit
+🔹 **Windows (Command Prompt):**  
+```sh
+venv\Scripts\activate
+```  
+
+## 🚀 Menjalankan Streamlit  
+Setelah **virtual environment** aktif, jalankan perintah berikut untuk memulai **dashboard**:  
 ```sh
 streamlit run dashboard.py
+```
 ```
