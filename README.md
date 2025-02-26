@@ -15,7 +15,6 @@ Sebelum menjalankan aplikasi, aktifkan **virtual environment**
 🔹 **Windows (Command Prompt):**  
 ```sh
 venv\Scripts\activate
-```  
 
 ## 🚀 Menjalankan Streamlit  
 Setelah **virtual environment** aktif, jalankan perintah berikut untuk memulai **dashboard**:  
